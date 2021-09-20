@@ -1,6 +1,6 @@
 # Site settings
 title: Peisong's blog
-description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
+description: 'A PhD student researching on Edge Computing.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://peisong0109.github.io/peisong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Peisong Li # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: A PhD student researching on Edge Computing.
 
 # Contact links
 email: Peisong.Li20@student.xjtlu.edu.cn # Add your Email address
