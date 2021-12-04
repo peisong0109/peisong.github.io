@@ -241,6 +241,7 @@ Example:
         }  
       
     }
+
 It usually includes the lifecycle of the activity, register and unregister of services and others. 
 ![Activity Lifecycle](./assets/img/posts/20211204/Lifecycle.png)
 
