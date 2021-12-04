@@ -1,4 +1,17 @@
-﻿# The records of the development of the Android app
+---
+layout: post
+read_time: true
+show_date: true
+title: "Common-used library in my Android project"
+date: 2021-12-04
+img: posts/20210420/post8-rembrandt.jpg
+tags: [android]
+category: experience
+author: Peisong Li
+description: "Common-used library in my Android project, like data transmission, thread and lifecycle management."
+---
+
+# The records of the development of the Android app
 
 ## Thread
 
