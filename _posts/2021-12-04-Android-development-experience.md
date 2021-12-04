@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Common-used library in my Android project"
 date: 2021-12-04
-img: posts/Android.jpg
+img: posts/20211204/Android.jpg
 tags: [android]
 category: experience
 author: Peisong Li
