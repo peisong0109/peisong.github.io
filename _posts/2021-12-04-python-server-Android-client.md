@@ -4,9 +4,9 @@ read_time: true
 show_date: true
 title: "Build a simple server based on the python Flask library"
 date: 2021-12-04
-img: posts/20211204/Android.jpg
+img: posts/20211204/flask.jpg
 tags: [server, python, Flask, OkHTTP]
-category: Experience
+category: Server
 author: Peisong Li
 description: "You can build and dockerize a python-based backend server in 5 minutes."
 ---
