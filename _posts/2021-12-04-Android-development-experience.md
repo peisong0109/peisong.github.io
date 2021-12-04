@@ -11,7 +11,7 @@ author: Peisong Li
 description: "Common-used library in my Android project, like data transmission, thread and lifecycle management."
 ---
 
-# The records of the development of the Android app
+### The records of the development of the Android app
 
 ## Thread
 
