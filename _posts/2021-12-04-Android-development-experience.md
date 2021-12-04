@@ -244,7 +244,7 @@ Example:
 
 It usually includes the lifecycle of the activity, register and unregister of services and others. 
 
-![Lifecycle](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20211204/Lifecycle.png)
+![Lifecycle](./assets/img/posts/20211204/Lifecycle.png)
 
 
 
