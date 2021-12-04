@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 read_time: true
 show_date: true
@@ -8,7 +8,7 @@ img: posts/20211204/Android.jpg
 tags: [server, python, Flask, OkHTTP]
 category: Experience
 author: Peisong Li
-description: "You can build and dockerize a python based backend server in 5 minutes."
+description: "You can build and dockerize a python-based backend server in 5 minutes."
 ---
 
 ## Background:
@@ -24,6 +24,7 @@ Firstly, we start with creating a new directory:
 
     cd flask_server
 Secondly, come into the forder and build the required files:
+
 ![File category](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20211204/Category.jpg)
 
 Dockerfile:
