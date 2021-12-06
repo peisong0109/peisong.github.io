@@ -23,6 +23,7 @@ First of all, you need to build a docker environment on your server, which is no
 Firstly, we start with creating a new directory:
 
     cd flask_server
+
 Secondly, come into the forder and build the required files:
 
 ![File category](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20211204/Category.jpg)
@@ -43,6 +44,7 @@ Dockerfile:
 requirements.txt:
 
     Flask==2.0.2
+
 Server.py:
 
     # @Time    : 2021-12-01 11:54
