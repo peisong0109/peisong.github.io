@@ -26,7 +26,7 @@ Firstly, we start with creating a new directory:
 
 Secondly, come into the forder and build the required files:
 
-![File category](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20211204/Category.jpg)
+![File category](./assets/img/posts/20211204/Category.jpg)
 
 Dockerfile:
 
