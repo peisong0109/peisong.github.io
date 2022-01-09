@@ -4,9 +4,9 @@ description: 'A PhD student researching on Edge Computing.' # this means to igno
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://peisong0109.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/img/branding/Logo.png"
-logo-icon: "/assets/img/branding/Logo.png"
-logo-icon-SEO: "/assets/img/branding/Logo.png" # must be a non SVG file
+logo: "/assets/img/branding/Logo_new.png"
+logo-icon: "/assets/img/branding/Logo_new.png"
+logo-icon-SEO: "/assets/img/branding/Logo_new.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -20,7 +20,7 @@ logo-icon-SEO: "/assets/img/branding/Logo.png" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: "/assets/img/branding/Logo.png"
+logo-dark: "/assets/img/branding/Logo_new.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
