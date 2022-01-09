@@ -3,7 +3,7 @@ title: Peisong's blog and experience
 description: 'A PhD student researching on Edge Computing.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://peisong0109.github.io/peisong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://peisong0109.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
