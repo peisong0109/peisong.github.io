@@ -11,4 +11,4 @@ author: Peisong Li
 description: "Intorduction to Edge Conputing"
 ---
 
-![Edge computing](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220405/Edge.jpg)
+![Edge computing](./assets/img/posts/20220405/Edge.jpg)
