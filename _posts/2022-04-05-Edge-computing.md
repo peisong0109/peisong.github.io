@@ -27,11 +27,17 @@ Industry investment and research interest in edge computing, in which computing 
 
 ## Reference
 [1] Satyanarayanan, Mahadev. "The emergence of edge computing." _Computer_ 50.1 (2017): 30-39.
+
 [2] Dilley, John, et al. "Globally distributed content delivery." _IEEE Internet Computing_ 6.5 (2002): 50-58.
+
 [3] Noble, Brian D., et al. "Agile application-aware adaptation for mobility." _ACM SIGOPS Operating Systems Review_ 31.5 (1997): 276-287.
+
 [4] Flinn, Jason, and Mahadev Satyanarayanan. "Energy-aware adaptation for mobile applications." _ACM SIGOPS Operating Systems Review_ 33.5 (1999): 48-63.
+
 [5] Satyanarayanan, Mahadev. "Pervasive computing: Vision and challenges." _IEEE Personal communications_ 8.4 (2001): 10-17.
+
 [6] Satyanarayanan, Mahadev, et al. "The case for vm-based cloudlets in mobile computing." _IEEE pervasive Computing_ 8.4 (2009): 14-23.
+
 [7] Bonomi, Flavio, et al. "Fog computing and its role in the internet of things." _Proceedings of the first edition of the MCC workshop on Mobile cloud computing_. 2012.
 
 ![Edge computing](./assets/img/posts/20220405/Edge.jpg)
