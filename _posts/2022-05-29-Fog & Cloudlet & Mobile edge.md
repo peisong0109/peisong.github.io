@@ -1,4 +1,3 @@
-
 ---
 layout: post
 read_time: true
