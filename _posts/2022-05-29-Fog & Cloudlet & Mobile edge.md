@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "What is Edge Computing?"
+title: "Fog Computing, Cloudlet and Mobile Edge Computing"
 date: 2022-05-29
 img: posts/20220405/Title.jpg
 tags: [Edge computing]
