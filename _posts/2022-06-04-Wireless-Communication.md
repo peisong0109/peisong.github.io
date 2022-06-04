@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "What is Edge Computing?"
 date: 2022-06-04
-img: posts/202205029/Edge.jpg
+img: posts/20220405/Title.jpg
 tags: [Wireless communication]
 category: Learning
 author: Peisong Li
