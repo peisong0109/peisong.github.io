@@ -1,11 +1,10 @@
-﻿
 ---
 layout: post
 read_time: true
 show_date: true
 title: "What is Edge Computing?"
 date: 2022-05-29
-img: posts/202205029/Edge.jpg
+img: posts/20220405/Title.jpg
 tags: [Edge computing]
 category: Research
 author: Peisong Li
