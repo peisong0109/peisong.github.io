@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 read_time: true
 show_date: true
-title: "Wireless Communication"
+title: "What is Edge Computing?"
 date: 2022-06-04
-img: posts/20220405/Title.jpg
+img: posts/202205029/Edge.jpg
 tags: [Wireless communication]
 category: Learning
 author: Peisong Li
@@ -14,9 +14,14 @@ description: "# Different Types of Wireless Communication Technologies"
 The term wireless refers to the communication or transmission of information over a distance without requiring wires, cables, or any other electrical conductors. Wireless communication is one of the important mediums of transmission of data or information to other devices. The Communication is set and the information is transmitted through the air, without requiring any cables, by using **electromagnetic waves** like radio frequencies, infrared, satellite, etc., in a wireless communication technology network.
 
 Different types of signals are used in communication between the devices for wireless transmission of data. The following are the **different electromagnetic signals** used depending on their wavelength and frequency.
+![Electromagnetic wave](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220604/ElectromagneticWaves.jpg)
 
  - [ ] Extension: What is wavelength and frequency?
+ Electromagnetic waves are measured using frequency.
+![What is frequency?](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220604/Frequency.jpg)
+ ![Wavelength](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220604/Wavelength.jpg)
  - [ ]  Extension: What is radio?
+![Radio Wave](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220604/RadioWave.jpg)
 
 ## Types of Wireless Data Transmission
 -   Radio Frequency Transmission
@@ -24,12 +29,15 @@ Different types of signals are used in communication between the devices for wir
 -   Microwave Transmission
 -   Lightwave Transmission
 ### Radio Frequency Transmission
-Radiofrequency is a form of electromagnetic transmission used in wireless communication. **RF** signals are easily generated, ranging 3kHz to 300GHz. **These are used in wireless communication because of their property to penetrate through objects and travel long distances.**
+Radio Frequency (RF) is a form of electromagnetic transmission used in wireless communication. **RF** signals are easily generated, ranging 3kHz to 300GHz. **These are used in wireless communication because of their property to penetrate through objects and travel long distances.**
 
+Signal transmission and reception is via **Antenna**.
+![Antenna](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220604/Antenna.jpg)
  **Drawbacks**
 
 -   These are frequency-dependent
 -   These have a relatively low bandwidth for data transmission.
+![Examples](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220604/RF%20examples.jpg)
 
 ### Infrared Transmission
 Infrared radiations are electromagnetic radiations with **longer wavelengths than visible light**. These are usually used for **short-range** communications. These signals **do not pass through solid objects**.
@@ -104,4 +112,6 @@ ZigBee is a wireless communication standard designed to address the unique needs
 
 
 ## Reference:
-[Different Types of Wireless Communication Technologies](https://www.watelectronics.com/different-types-wireless-communication-technologies/)
+[1] [Different Types of Wireless Communication Technologies](https://www.watelectronics.com/different-types-wireless-communication-technologies/)
+[2] [Wireless principles : RF or radio frequency , Hertz explained in simple terms| free ccna 200-301](https://www.youtube.com/watch?v=5VdVn7Le0uw)
+[3] [EM spectrum: radio wave, infrared, visible light, ultraviolet, X and Gamma ray](https://www.youtube.com/watch?v=1JpwDaOHppA)
