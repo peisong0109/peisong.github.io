@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "What is Edge Computing?"
+title: "Wireless communication"
 date: 2022-06-04
 img: posts/202205029/Edge.jpg
 tags: [Wireless communication]
