@@ -19,6 +19,8 @@ Different types of signals are used in communication between the devices for wir
  - [ ] Extension: What is wavelength and frequency?
  Electromagnetic waves are measured using frequency.
 ![What is frequency?](./assets/img/posts/20220604/Frequency.jpg)
+
+The wavelength and frequency are shown in the following figure.
  ![Wavelength](./assets/img/posts/20220604/Wavelength.jpg)
  - [ ]  Extension: What is radio?
 ![Radio Wave](./assets/img/posts/20220604/RadioWave.jpg)
