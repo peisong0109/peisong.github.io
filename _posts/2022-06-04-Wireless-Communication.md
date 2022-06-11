@@ -113,5 +113,7 @@ ZigBee is a wireless communication standard designed to address the unique needs
 
 ## Reference:
 [1] [Different Types of Wireless Communication Technologies](https://www.watelectronics.com/different-types-wireless-communication-technologies/)
+
 [2] [Wireless principles : RF or radio frequency , Hertz explained in simple terms| free ccna 200-301](https://www.youtube.com/watch?v=5VdVn7Le0uw)
+
 [3] [EM spectrum: radio wave, infrared, visible light, ultraviolet, X and Gamma ray](https://www.youtube.com/watch?v=1JpwDaOHppA)
