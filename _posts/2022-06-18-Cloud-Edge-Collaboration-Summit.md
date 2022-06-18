@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 read_time: true
 show_date: true
 title: "Cloud Edge Collaboration Summit"
 date: 2022-06-18
-img: posts/202205029/Edge.jpg
+img: posts/20220618/Logo.jpg
 tags: [Edge computing]
 category: Meeting record
 author: Peisong Li
