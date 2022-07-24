@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 read_time: true
 show_date: true
 title: "Cloud Edge Collaboration Summit"
 date: 2022-06-18
-img: posts/202205029/Edge.jpg
+img: posts/20220618/Logo.jpg
 tags: [Edge computing]
 category: Meeting record
 author: Peisong Li
@@ -41,13 +41,13 @@ description: "# Cloud Edge Collaboration Summit"
  - 云边端分布式数据管理能力有待提升
  - 云边端一体化安全防护体系尚需构建
  - 云边端技术和应用落地缺乏标准化指引
-![云边端一体化面临的挑战](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220618/Challenges.png)
+![云边端一体化面临的挑战](./assets/img/posts/20220618/Challenges.png)
 
 ### 面向分布式机器学习的边缘网络协同技术 （北京邮电大学）
 #### 背景：
-![研究背景](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220618/Background.png)
+![研究背景](./assets/img/posts/20220618/Background.png)
 #### 挑战：
-![挑战](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20220618/Challenges_distri.png)
+![挑战](./assets/img/posts/20220618/Challenges_distri.png)
 
 
 
