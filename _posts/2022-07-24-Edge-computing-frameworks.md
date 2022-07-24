@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Edge computing frameworks"
 date: 2022-07-24
-img: posts/202205029/Edge.jpg
+img: posts/20220724/logo.png
 tags: [Edge computing]
 category: Edge computing
 author: Peisong Li
