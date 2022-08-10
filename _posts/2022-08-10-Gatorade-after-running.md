@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
 read_time: true
 show_date: true
 title: "Is Gatorade Good for Runners?"
 date: 2022-08-10
-img: posts/202205029/Edge.jpg
+img: posts/20220810/SportsDrink.jpg
 tags: [Running]
 category: Daily life
 author: Peisong Li
