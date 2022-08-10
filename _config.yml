@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Peisong Li # add your name
 author-pic: Myself.jpg
-about-author: A PhD student researching on Edge Computing. Link to his Google Scholar: https://scholar.google.com/citations?user=VYLeYskAAAAJ
+about-author: A PhD student researching on Edge Computing.
 
 # Contact links
 email: Peisong.Li20@student.xjtlu.edu.cn # Add your Email address
