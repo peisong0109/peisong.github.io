@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Phrases used in Email"
 date: 2022-08-20
-img: posts/20220820/mail.png
+img: posts/20220820/logo.pdf
 tags: [Email]
 category: Daily life
 author: Peisong Li
