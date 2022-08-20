@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: "Wireless communication"
 date: 2022-06-04
-img: posts/20220604/wireless.jpg
+img: posts/20220604/wireless.png
 tags: [Wireless communication]
 category: Learning
 author: Peisong Li
