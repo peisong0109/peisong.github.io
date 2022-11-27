@@ -20,7 +20,7 @@ Download the latest version of release from:
 https://github.com/wildfirechat/im-server
 Here we download the source code (zip), then unzip and copy it to the cloud server.
 
-![image](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20221127/step1-1.png)
+![image](./assets/img/posts/20221127/step1-1.png)
 
 #### Step2: Start the service
 Then, just follow the [tutorial](https://docs.wildfirechat.cn/quick_start/server.html).
@@ -32,7 +32,7 @@ Download the latest version of release from:
 https://github.com/wildfirechat/app-server
 Here we download the source code (zip), then unzip and copy it to the cloud server.
 
-![image](https://github.com/peisong0109/peisong0109.github.io/blob/gh-pages/assets/img/posts/20221127/step2-1.png)
+![image](./assets/img/posts/20221127/step2-1.png)
 
 #### Step2: Start the service
 Then, just follow the [tutorial](https://docs.wildfirechat.cn/quick_start/server.html).
