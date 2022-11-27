@@ -20,6 +20,8 @@ Download the latest version of release from:
 https://github.com/wildfirechat/im-server
 Here we download the source code (zip), then unzip and copy it to the cloud server.
 
+![image](https://github.com/peisong0109/Running-a-Hadoop-MapReduce-wordcount-application-in-Docker/blob/main/screenshots/step1.png)
+
 #### Step2: Start the service
 Then, just follow the [tutorial](https://docs.wildfirechat.cn/quick_start/server.html).
 
