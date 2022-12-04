@@ -56,5 +56,7 @@ sudo docker run -p 3307:3306 --name mysql  -e MYSQL_ROOT_PASSWORD=123456 -d mysq
 
 #### Modify the config file.
 
+![image](./assets/img/posts/20221127/step3.png)
+
 
 
