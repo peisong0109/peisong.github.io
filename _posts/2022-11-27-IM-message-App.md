@@ -20,7 +20,7 @@ Download the latest version of release from:
 
 https://github.com/wildfirechat/im-server
 
-Here we download the source code (zip), then unzip and copy it to the cloud server.
+Here we download the latest version (tar), then unzip and copy it to the cloud server.
 
 ![image](./assets/img/posts/20221127/step1-1.png)
 
@@ -34,7 +34,7 @@ Download the latest version of release from:
 
 https://github.com/wildfirechat/app-server
 
-Here we download the source code (zip), then unzip and copy it to the cloud server.
+Here we download the latest version (tar), then unzip and copy it to the cloud server.
 
 ![image](./assets/img/posts/20221127/step2-1.png)
 
