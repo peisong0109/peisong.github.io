@@ -49,5 +49,12 @@ https://github.com/wildfirechat/android-chat
   https://docs.wildfirechat.cn/quick_start/android.html
 
 ## Change the database
-Todo
+#### Change the database to MySQL:
+```
+sudo docker run -p 3307:3306 --name mysql  -e MYSQL_ROOT_PASSWORD=123456 -d mysql:latest
+```
+
+#### Modify the config file.
+
+
 
