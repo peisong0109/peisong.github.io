@@ -17,7 +17,9 @@ description: "Design an IM App using wildfire."
 ### IM service
 #### Step1: Download the source code
 Download the latest version of release from:
+
 https://github.com/wildfirechat/im-server
+
 Here we download the source code (zip), then unzip and copy it to the cloud server.
 
 ![image](./assets/img/posts/20221127/step1-1.png)
@@ -29,7 +31,9 @@ Then, just follow the [tutorial](https://docs.wildfirechat.cn/quick_start/server
 ### Demo application service
 #### Step1: Download the source code
 Download the latest version of release from:
+
 https://github.com/wildfirechat/app-server
+
 Here we download the source code (zip), then unzip and copy it to the cloud server.
 
 ![image](./assets/img/posts/20221127/step2-1.png)
